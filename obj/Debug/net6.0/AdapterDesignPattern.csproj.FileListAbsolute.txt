@@ -1,0 +1,15 @@
+C:\Users\Shubham.Pathania\Adapter\AdapterDesignPattern\obj\Debug\net6.0\AdapterDesignPattern.csproj.AssemblyReference.cache
+C:\Users\Shubham.Pathania\Adapter\AdapterDesignPattern\obj\Debug\net6.0\AdapterDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shubham.Pathania\Adapter\AdapterDesignPattern\obj\Debug\net6.0\AdapterDesignPattern.AssemblyInfoInputs.cache
+C:\Users\Shubham.Pathania\Adapter\AdapterDesignPattern\obj\Debug\net6.0\AdapterDesignPattern.AssemblyInfo.cs
+C:\Users\Shubham.Pathania\Adapter\AdapterDesignPattern\obj\Debug\net6.0\AdapterDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Shubham.Pathania\Adapter\AdapterDesignPattern\bin\Debug\net6.0\AdapterDesignPattern.exe
+C:\Users\Shubham.Pathania\Adapter\AdapterDesignPattern\bin\Debug\net6.0\AdapterDesignPattern.deps.json
+C:\Users\Shubham.Pathania\Adapter\AdapterDesignPattern\bin\Debug\net6.0\AdapterDesignPattern.runtimeconfig.json
+C:\Users\Shubham.Pathania\Adapter\AdapterDesignPattern\bin\Debug\net6.0\AdapterDesignPattern.dll
+C:\Users\Shubham.Pathania\Adapter\AdapterDesignPattern\bin\Debug\net6.0\AdapterDesignPattern.pdb
+C:\Users\Shubham.Pathania\Adapter\AdapterDesignPattern\obj\Debug\net6.0\AdapterDesignPattern.dll
+C:\Users\Shubham.Pathania\Adapter\AdapterDesignPattern\obj\Debug\net6.0\refint\AdapterDesignPattern.dll
+C:\Users\Shubham.Pathania\Adapter\AdapterDesignPattern\obj\Debug\net6.0\AdapterDesignPattern.pdb
+C:\Users\Shubham.Pathania\Adapter\AdapterDesignPattern\obj\Debug\net6.0\AdapterDesignPattern.genruntimeconfig.cache
+C:\Users\Shubham.Pathania\Adapter\AdapterDesignPattern\obj\Debug\net6.0\ref\AdapterDesignPattern.dll
